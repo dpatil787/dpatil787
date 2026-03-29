@@ -1,16 +1,39 @@
-## Hi there 👋
+## 👋 Hi, I'm Dnyanesh Patil
 
-<!--
-**dpatil787/dpatil787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps Engineer  
+📍 Focus: Linux | AWS | Docker | Kubernetes | Monitoring & Logging
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I'm Doing Right Now
+
+* Building real-world DevOps projects
+* Practicing Linux server administration
+* Working on Monitoring & Logging systems
+
+---
+
+## ⚙️ Tech Stack
+
+* Linux (Server + Networking)
+* AWS (EC2, IAM, VPC)
+* Docker
+* Kubernetes (Learning)
+* Terraform (Learning)
+* Git
+
+---
+
+## 🔧 Projects (Hands-on) (More will be updated soon)
+
+* Centralized Logging using Rsyslog
+* Monitoring with Prometheus & Grafana
+* Kubernetes Deployment Project
+* Docker + Terraform Automation
+
+---
+
+## 📫 Connect
+
+* GitHub: https://github.com/dpatil787
+* Email: mail.dnyaneshp@gmail.com
