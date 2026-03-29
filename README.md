@@ -2,7 +2,7 @@
 
 🚀 DevOps | SRE | Cloud Engineer.
 
-📍 Focus: Linux | AWS | Docker | Kubernetes | Monitoring & Logging
+📍 Focus: Linux | AWS | Terraform | Git | Docker | Kubernetes | Monitoring & Logging
 
 ---
 
